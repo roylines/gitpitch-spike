@@ -1,1 +1,1 @@
-@code[terraform](https://github.com/roylines/roz/blob/master/sample-bastion/bastion.tf)
+@code[json](https://raw.githubusercontent.com/roylines/roz/master/sample-bastion/bastion.tf)
